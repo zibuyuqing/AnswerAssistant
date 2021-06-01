@@ -13,7 +13,7 @@ multidict==3.3.2
 Pillow==5.0.0
 requests==2.18.4
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 yarl==0.17.0
 zope.interface==4.4.3
 breadability==0.1.20
